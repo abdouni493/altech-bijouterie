@@ -555,7 +555,7 @@ const Settings: React.FC = () => {
               </span>
             </div>
 
-            {/* Admin: email + password via Supabase */}
+            {/* Admin: email + password (local demo account) */}
             {isAdmin && (
               <div className="lux-card" style={{ display: 'flex', flexDirection: 'column', gap: 20 }}>
                 <CardHeader icon={<Shield size={18} color="var(--gold)" />} title="Sécurité du Compte" subtitle="Modifier votre email et mot de passe" />
