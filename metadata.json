@@ -1,6 +1,6 @@
 {
-  "name": "Bijouterie Lakrouf Management System",
-  "description": "A comprehensive management application for a silver jewelry store featuring inventory tracking, POS, workshop management, worker payroll, and multi-language support (French/Arabic).",
+  "name": "Altech Bijouterie Management System",
+  "description": "Application de gestion de bijouterie (or, argent et tout autre metal) : stock, POS, ateliers, paie, boutique en ligne et rapports. Multilingue francais / arabe.",
   "requestFramePermissions": [
     "camera"
   ]

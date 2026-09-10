@@ -1,5 +1,5 @@
 {
-  "name": "bijouterie-lakrouf-management-system",
+  "name": "altech-bijouterie",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -10,7 +10,6 @@
     "build:css": "tailwindcss -i src/styles/tailwind.css -o public/assets/tailwind.css --minify"
   },
   "dependencies": {
-    "@supabase/supabase-js": "^2.108.0",
     "framer-motion": "^12.40.0",
     "lucide-react": "0.463.0",
     "react": "^19.2.4",
